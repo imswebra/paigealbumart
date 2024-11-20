@@ -1,6 +1,6 @@
-# [Paige's Birthday Album](https://www.imswebra.com/projects/paigebirthdayalbum/)
+# [Paige's Birthday Album](https://swebra.com/projects/paige-birthday-album/)
 ![](paigebirthdayalbum.png)
-This repository serves as a download for the source files of the project showcased [on imswebra.com](http://www.imswebra.com/projects/paigebirthdayalbum/). Visit this page for more information.
+This repository serves as a download for the source files of the project showcased [on swebra.com](https://swebra.com/projects/paige-birthday-album/). Visit this page for more information.
 
 ## Missing Files
 - None
